@@ -1,0 +1,12 @@
+{
+  "name": "dev-ai-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
